@@ -1,4 +1,4 @@
-package basics_Vers_1;
+package mod1.day1;
 
 public class HelloWorld {
 
